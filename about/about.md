@@ -98,15 +98,15 @@
 ###Семинар 6: ассемблер и архитектура
 [Яндекс Контест]https://contest.yandex.ru/contest/66464/enter
 
-**Problem AS** — кодировщик
-**Problem AS2** — декодер
-**Problem MK** — эмулятор
-**Problem AGF** — распознавание простой функции
-**Problem AG** — работа с памятью
-**Problem CM0** — крэкми-0
-**Problem CM** — крэкми-1
-**Problem AP** — простые числа на ассемблере
-**Problem AGS** — упражнения с ABI
+**Problem AS** — кодировщик  
+**Problem AS2** — декодер  
+**Problem MK** — эмулятор  
+**Problem AGF** — распознавание простой функции  
+**Problem AG** — работа с памятью  
+**Problem CM0** — крэкми-0  
+**Problem CM** — крэкми-1  
+**Problem AP** — простые числа на ассемблере  
+**Problem AGS** — упражнения с ABI  
 
 
 
