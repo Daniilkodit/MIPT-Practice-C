@@ -96,7 +96,7 @@
 - **Problem ED** — расстояние редактирования
 
 ### Семинар 6: ассемблер и архитектура
-[Яндекс Контест]https://contest.yandex.ru/contest/66464/enter
+[Яндекс Контест](https://contest.yandex.ru/contest/66464/enter)
 
 - **Problem AS** — кодировщик  
 - **Problem AS2** — декодер  
